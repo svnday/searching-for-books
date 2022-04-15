@@ -71,5 +71,5 @@ ________________________________________________________________________________
 
 
 Link to repository: [https://github.com/svnday/searching-for-books](https://github.com/svnday/searching-for-books)  
-Link to deployed application: [https://searching-for-books-svnday.herokuapp.com/](https://searching-for-books-svnday.herokuapp.com/)
-Link to screenshot: ![https://i.imgur.com/ylRrXmk.png](https://i.imgur.com/ylRrXmk.png)
+Link to deployed application: [https://searching-for-books-svnday.herokuapp.com/](https://searching-for-books-svnday.herokuapp.com/)  
+Link to screenshot: ![https://i.imgur.com/ylRrXmk.png](https://i.imgur.com/ylRrXmk.png)  
